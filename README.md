@@ -1,5 +1,3 @@
-Data Scraping Source
-
 Data Scraping 
 
 용어 설명  
