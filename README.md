@@ -5,8 +5,8 @@ Data Scraping
 * Crawling : 자동으로 정보 추출을 반복하는 프로그램  
 
 Web Site 저작권  
-* 저작권 Site 정책 :  url/robots.txt  (예: www.google.com/robuts.txt )  
-* 한국법 : 2016년 재정된 저작권법 제 30조: 정보 해석을 복적으로 저작물을 복제/번안 가능  
+* 저작권 Site 정책 :  url/robots.txt  (예: www.google.com/robots.txt )  
+* 한국법 : 2016년 재정된 저작권법 제 30조: 정보 해석을 목적으로 저작물을 복제/번안 가능  
 
 사람처럼 보이기 위한 방법
 * 사이트를 너무 빠르게 이동 하지 마세요. (sleep 사용)  
