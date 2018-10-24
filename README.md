@@ -42,4 +42,5 @@ Web Site 저작권
 
 
 
-Author ChangWookJun / @changwookjun
+# Author
+ChangWookJun / @changwookjun (changwookjun@gmail.com)
